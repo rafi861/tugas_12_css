@@ -1,0 +1,46 @@
+body{
+  background-color: aqua;
+}
+li{
+display: inline-block;
+word-spacing: 10px;
+}
+header{
+  background-color: black;
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+ul{
+  word-spacing: 20px;
+}
+.slider-img{
+  margin-right: 10px;
+  width: 1320px;
+  height: 500px;
+
+}
+.image{
+  width: 450px;
+  height: 480px;
+  float: left;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+.p-text{
+  column-count: 4;
+  text-align: justify;
+  column-rule: 5px double black;
+  column-gap: 20px;
+}
+footer{
+  background-color: black;
+  padding: 1px;
+}
+h2{
+  color: white;
+  text-align: center ;
+  margin-top: 0;
+}
